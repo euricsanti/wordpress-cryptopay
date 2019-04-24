@@ -1,4 +1,4 @@
-#WordPress - CryptoPay 
+#WordPress - CryptoPay ##
 
 Accept Nano Cryptocurrency on your WordPress site. Set up a paywall so content on posts or pages is hidden until the user pays an amount of Nany.
 
